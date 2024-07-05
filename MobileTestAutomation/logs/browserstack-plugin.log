@@ -1,0 +1,146 @@
+11:08:19.815 [main] INFO  c.b.launchers.LaunchMavenCommand - Executing maven archetype command - browserstack-sdk-archetype-integrate
+11:08:19.819 [main] INFO  c.b.launchers.LaunchMavenCommand - The maven properties for launcher are [archetypeArtifactId=browserstack-sdk-archetype-integrate, BROWSERSTACK_ACCESS_KEY=aMCCGzkP95srLveNzerd, groupId=com.browserstack, BROWSERSTACK_APP=bs://sample.app, BROWSERSTACK_FRAMEWORK=java, version=1.0, PROJECT_NAME=MobileTestAutomationFramework, archetypeVersion=1.4, archetypeGroupId=com.browserstack, artifactId=java-archetype-integrate, BROWSERSTACK_USERNAME=amalmh_V6OWFJ, BUILD_NAME=browserstack build, BROWSERSTACK_SOURCE=java:appium-eclipse:v1.0.8]
+11:08:19.826 [Worker-24: Launching mavenrun-309881b0-f12e-4a24-b811-9dab796df1ce] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+11:13:24.988 [Worker-41: Launching AddToCartTest.testTrigger] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+11:13:24.990 [Worker-41: Launching AddToCartTest.testTrigger] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+11:13:24.993 [Worker-41: Launching AddToCartTest.testTrigger] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+11:13:24.993 [Worker-41: Launching AddToCartTest.testTrigger] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+11:16:16.777 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+11:16:16.778 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+11:16:16.780 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/MobileTestAutomation
+11:16:16.780 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+11:16:16.780 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+11:16:16.781 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/MobileTestAutomation
+11:16:21.513 [Worker-27: Launching Executing test in E__MobileTestAutomationFramework_MobileTestAutomation] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+11:17:53.372 [Worker-36: Launching Executing test in E__MobileTestAutomationFramework_MobileTestAutomation] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+11:19:38.791 [Worker-36: Launching Executing test in E__MobileTestAutomationFramework_MobileTestAutomation] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+11:20:29.619 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+11:20:29.619 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+11:20:29.620 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/MobileTestAutomation
+11:20:29.620 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+11:20:29.620 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+11:20:29.621 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/MobileTestAutomation
+11:20:46.184 [Worker-31: Launching Executing test in E__MobileTestAutomationFramework_MobileTestAutomation] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+11:21:32.358 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+11:21:32.358 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+11:21:32.359 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/MobileTestAutomation
+11:21:32.361 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+11:21:32.361 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+11:21:32.362 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/MobileTestAutomation
+11:21:55.446 [Worker-41: Launching Executing test in E__MobileTestAutomationFramework_MobileTestAutomation] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+11:23:31.648 [Worker-37: Launching Executing test in E__MobileTestAutomationFramework_MobileTestAutomation] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+11:25:42.469 [Worker-41: Launching Executing test in E__MobileTestAutomationFramework_MobileTestAutomation] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+11:28:05.606 [Worker-43: Launching AddToCartTest.testTrigger] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+11:28:05.607 [Worker-43: Launching AddToCartTest.testTrigger] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+11:28:05.609 [Worker-43: Launching AddToCartTest.testTrigger] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+11:28:05.610 [Worker-43: Launching AddToCartTest.testTrigger] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+11:30:44.974 [Worker-50: Launching AddToCartTest.testTrigger] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+11:30:44.975 [Worker-50: Launching AddToCartTest.testTrigger] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+11:30:44.976 [Worker-50: Launching AddToCartTest.testTrigger] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+11:30:44.977 [Worker-50: Launching AddToCartTest.testTrigger] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+11:37:57.287 [Worker-43: Launching AddToCartTest.AddToCartTest] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+11:37:57.288 [Worker-43: Launching AddToCartTest.AddToCartTest] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+11:37:57.289 [Worker-43: Launching AddToCartTest.AddToCartTest] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+11:37:57.290 [Worker-43: Launching AddToCartTest.AddToCartTest] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+11:41:14.761 [Worker-49: Launching Executing test in E__MobileTestAutomationFramework_MobileTestAutomation] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+12:38:06.318 [Worker-52: Launching Executing test in E__MobileTestAutomationFramework_MobileTestAutomation] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+14:00:26.558 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+14:00:26.558 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:00:26.559 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/TrainingProjectTwo
+14:00:26.560 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+14:00:26.560 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:00:26.561 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/TrainingProjectTwo
+14:00:30.732 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+14:00:30.732 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:00:30.733 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/TrainingProjectTwo
+14:00:30.734 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+14:00:30.734 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:00:30.735 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/TrainingProjectTwo
+14:00:39.083 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+14:00:39.083 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:00:39.084 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/TrainingProjectTwo
+14:00:39.084 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+14:00:39.084 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:00:39.086 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/TrainingProjectTwo
+14:02:10.110 [Worker-55: Launching CheckClass] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+14:02:10.112 [Worker-55: Launching CheckClass] ERROR c.b.BrowserStackPluginActivator - Error in setJavaAgentVMArgs - java.lang.NullPointerException: Cannot invoke "org.eclipse.m2e.core.project.IMavenProjectFacade.getMavenProject(org.eclipse.core.runtime.IProgressMonitor)" because "prjFecade" is null
+14:05:17.045 [Worker-45: Launching Executing test in E__MobileTestAutomationFramework_MobileTestAutomation] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+14:09:16.667 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+14:09:16.667 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:09:16.669 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/MobileTestAutomation
+14:09:16.669 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+14:09:16.669 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:09:16.670 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/MobileTestAutomation
+14:09:28.447 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+14:09:28.447 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:09:28.448 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/MobileTestAutomation
+14:09:28.449 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+14:09:28.449 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:09:28.450 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/MobileTestAutomation
+14:09:46.177 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+14:09:46.177 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:09:46.179 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/MobileTestAutomation
+14:09:46.179 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+14:09:46.179 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:09:46.181 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/MobileTestAutomation
+14:10:25.805 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+14:10:25.806 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:10:25.807 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/MobileTestAutomation
+14:10:25.807 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+14:10:25.807 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:10:25.808 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/MobileTestAutomation
+14:12:07.763 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+14:12:07.763 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:12:07.764 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/MobileTestAutomation
+14:12:07.765 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+14:12:07.765 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:12:07.766 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/MobileTestAutomation
+14:13:01.390 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+14:13:01.391 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:13:01.393 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/android_testng-examples
+14:13:01.394 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+14:13:01.394 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:13:01.395 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/android_testng-examples
+14:13:04.687 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+14:13:04.688 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:13:04.689 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/Appium
+14:13:04.689 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+14:13:04.689 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:13:04.691 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/Appium
+14:13:05.759 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+14:13:05.760 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:13:05.761 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/AppiumTwo
+14:13:05.761 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+14:13:05.761 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:13:05.762 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/AppiumTwo
+14:13:10.640 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+14:13:10.640 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:13:10.641 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/AppiumTwo2Cloud
+14:13:10.642 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+14:13:10.643 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:13:10.644 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/AppiumTwo2Cloud
+14:13:14.810 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+14:13:14.810 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:13:14.812 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/testng-appium-app-browserstack-sdk
+14:13:14.812 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+14:13:14.812 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:13:14.813 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/testng-appium-app-browserstack-sdk
+14:13:19.019 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+14:13:19.019 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:13:19.021 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/testng-examples
+14:13:19.023 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+14:13:19.023 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:13:19.024 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/testng-examples
+14:13:23.371 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+14:13:23.371 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:13:23.373 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/TrainingProjectTwo
+14:13:23.373 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+14:13:23.373 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:13:23.375 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/TrainingProjectTwo
+14:13:24.497 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+14:13:24.497 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:13:24.499 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/TrainingProjectTwo
+14:13:24.499 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+14:13:24.499 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:13:24.500 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/TrainingProjectTwo
+14:14:08.370 [Framework stop - Equinox Container: 7d30ba54-6284-4d12-a308-4ccc8191c8f7] INFO  c.b.BrowserStackPluginActivator - Stopping BrowserStack Plugin...
